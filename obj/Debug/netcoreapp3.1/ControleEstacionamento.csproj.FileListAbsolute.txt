@@ -1,0 +1,14 @@
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.exe
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.deps.json
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.runtimeconfig.json
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.runtimeconfig.dev.json
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.dll
+C:\Users\Narlson\source\repos\ControleEstacionamento\bin\Debug\netcoreapp3.1\ControleEstacionamento.pdb
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.AssemblyInfo.cs
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.dll
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.pdb
+C:\Users\Narlson\source\repos\ControleEstacionamento\obj\Debug\netcoreapp3.1\ControleEstacionamento.genruntimeconfig.cache
